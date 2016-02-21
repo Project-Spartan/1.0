@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="bootstrap/css/bootstrap-theme.min.css"/>
 </head>
 <body>
-  <ul>
+  <ul id="menu">
     <li><a href="index.php">Home</a></li>
     <li><a href="Sobre.php">Quem somos</a></li>
     <li><a href="Contato.php">Contato</a></li>
